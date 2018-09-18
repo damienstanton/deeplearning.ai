@@ -7,9 +7,7 @@ ipython
 
 # ml libs (guessing for now)
 # -------
-# note that any occurrence of "async" in tensorflow_pywrap_internal.py needs to be
-# changed to something else to work in Python 3.7. Hence tensorflow is commented out.
-# https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.10.1-py3-none-any.whl
+https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.10.1-py3-none-any.whl
 scipy
 scikit-learn
 pandas
