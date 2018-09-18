@@ -12,3 +12,8 @@ and install all the reqs (which may change as I proceed):
 ```sh
 pip3 install -r requirements.txt
 ```
+
+then launch the notebook
+```sh
+(env) jupyter notebook
+```
