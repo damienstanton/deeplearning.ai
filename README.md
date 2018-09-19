@@ -17,3 +17,13 @@ then launch the notebook
 ```sh
 (env)$ jupyter notebook
 ```
+
+These notes are MIT Licensed, so pursuant to that license do whatever you want with any code or algorithms I publish here.
+
+With that said, I will not publish programming assignments (doing the work is the fun bit).
+
+© 2018 Damien Stanton
+
+See LICENSE for details.
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/damienstanton)
