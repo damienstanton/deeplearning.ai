@@ -11,6 +11,7 @@ https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.10.1-py3-none-any
 scipy
 scikit-learn
 pandas
+matplotlib
 
 # rest
 # ----
