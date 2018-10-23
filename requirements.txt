@@ -7,7 +7,8 @@ ipython
 
 # ml libs (guessing for now)
 # -------
-https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.10.1-py3-none-any.whl
+torch
+torchvision
 scipy
 scikit-learn
 pandas
