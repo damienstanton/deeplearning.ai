@@ -3,7 +3,7 @@
 ![Python 3.6.6](https://img.shields.io/badge/Python-3.6.6-green.svg?longCache=true&style=flat)
 
 
-Otherwise, simply create a virtualenv
+To get started, simply create a virtualenv
 ```sh
 $ python3 -m venv env/
 $ source env/bin/activate
