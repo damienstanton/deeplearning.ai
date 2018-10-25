@@ -1,4 +1,4 @@
 *.DS_Store
-env/
+coursera_env/
 .ipynb_checkpoints/
 projects/

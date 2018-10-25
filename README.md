@@ -1,9 +1,6 @@
 # deeplearning.ai notes
 
-![Python 3.7.1](https://img.shields.io/badge/Python-3.7.1-green.svg?longCache=true&style=flat)
-
-
-Note: If running Python 3.7, be sure to run the tensorflow fix to rewrite a file that uses `async` as a parameter name. In Python 3.7+, this is a reserved keyword. *Update*: I decided to switch to PyTorch for the purposes of anything related to this course, until TF is actually required.
+![Python 3.6.6](https://img.shields.io/badge/Python-3.6.6-green.svg?longCache=true&style=flat)
 
 
 Otherwise, simply create a virtualenv

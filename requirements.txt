@@ -1,20 +1,15 @@
-# basics
-# ------
+# notebook and linters 
+# --------------------
 pytest
 yapf
 pylint
-ipython
+jupyter
+jupyterlab
+pixiedust
 
-# ml libs (guessing for now)
+# ml libs
 # -------
-torch
-torchvision
+tensorflow
 scipy
 scikit-learn
-pandas
 matplotlib
-
-# rest
-# ----
-requests
-flask
