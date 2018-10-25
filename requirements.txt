@@ -5,7 +5,6 @@ yapf
 pylint
 jupyter
 jupyterlab
-pixiedust
 
 # ml libs
 # -------
@@ -13,3 +12,4 @@ tensorflow
 scipy
 scikit-learn
 matplotlib
+pandas
