@@ -1,4 +1,5 @@
 *.DS_Store
 coursera_env/
 .ipynb_checkpoints/
+.mypy_cache/
 projects/
