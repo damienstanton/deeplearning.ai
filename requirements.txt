@@ -5,6 +5,7 @@ yapf
 pylint
 jupyter
 jupyterlab
+mypy
 
 # ml libs
 # -------
